@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BigData">
         <activity
+            android:name=".PhoneNumberActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
             android:name=".profile"
             android:exported="true" />
         <activity

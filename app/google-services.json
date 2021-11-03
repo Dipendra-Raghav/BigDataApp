@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "306723776239",
+    "firebase_url": "https://bigdata-ec155-default-rtdb.firebaseio.com",
     "project_id": "bigdata-ec155",
     "storage_bucket": "bigdata-ec155.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "306723776239-betf08s7m156bbisniu36avi9hbukakb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bigdata",
+            "certificate_hash": "b4f9d59593f6d911a70c48b8f84ed5afdb2a3620"
+          }
+        },
         {
           "client_id": "306723776239-l8qh4p6cmr03b6k4o3fj2h8sb7o90efv.apps.googleusercontent.com",
           "client_type": 3
