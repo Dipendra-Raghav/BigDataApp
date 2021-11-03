@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BigData">
         <activity
+            android:name=".chatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".setProfile"
+            android:exported="false" />
+        <activity
+            android:name=".otpAuthentication"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
