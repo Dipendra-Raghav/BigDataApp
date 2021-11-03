@@ -19,7 +19,7 @@ public class DashBoard extends AppCompatActivity {
         chat.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(),PhoneNumberActivity.class));
+                startActivity(new Intent(getApplicationContext(),splash.class));
                 finish();
 
             }

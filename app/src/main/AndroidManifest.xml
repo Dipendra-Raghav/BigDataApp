@@ -12,10 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BigData">
         <activity
-            android:name=".PhoneNumberActivity"
-            android:exported="true" />
-        <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".splash"
+            android:exported="false" />
+        <activity
+            android:name=".PhoneNumberActivity"
             android:exported="true" />
         <activity
             android:name=".profile"
